@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="990d9271-40bf-4f0b-8000-c367d1b502f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="339" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\python\PythonSystemStudy\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mGghMNnTZdYmI8u9c5TRIVEjVN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\python\PythonSystemStudy\com\Pythonbaseknowledge\Variovsandstring\md" />
+      <recent name="G:\python\PythonSystemStudy\com\Pythonbaseknowledge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\python\PythonSystemStudy\com\Pythonbaseknowledge\function" />
+      <recent name="G:\python\PythonSystemStudy\com\Pythonbaseknowledge" />
+      <recent name="G:\python\PythonSystemStudy\com\Pythonbaseknowledge\dict" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.elec_charge">
+    <configuration name="elec_charge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSystemStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/Pythonbaseknowledge/Variovsandstring" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/Pythonbaseknowledge/Variovsandstring/elec_charge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSystemStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/Pythonbaseknowledge/function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/Pythonbaseknowledge/function/sample5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSystemStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/Pythonbaseknowledge/dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/Pythonbaseknowledge/dict/sample6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSystemStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/Pythonbaseknowledge/dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/Pythonbaseknowledge/dict/sample7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yci_assistant" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSystemStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/Pythonbaseknowledge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/Pythonbaseknowledge/yci_assistant.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.elec_charge" />
+        <item itemvalue="Python.yci_assistant" />
+        <item itemvalue="Python.sample5" />
+        <item itemvalue="Python.sample7" />
+        <item itemvalue="Python.sample6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990d9271-40bf-4f0b-8000-c367d1b502f5" name="Default Changelist" comment="" />
+      <created>1609125459361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609125459361</updated>
+      <workItem from="1609125482394" duration="4206000" />
+      <workItem from="1609216605254" duration="2257000" />
+      <workItem from="1609227591092" duration="9499000" />
+      <workItem from="1609245050317" duration="1298000" />
+      <workItem from="1609294889160" duration="5600000" />
+      <workItem from="1609498210612" duration="4366000" />
+      <workItem from="1609569329979" duration="12178000" />
+      <workItem from="1609651667717" duration="3583000" />
+      <workItem from="1609655863293" duration="4260000" />
+      <workItem from="1609723256216" duration="616000" />
+      <workItem from="1609725955625" duration="177000" />
+      <workItem from="1609726634651" duration="2209000" />
+      <workItem from="1609744402929" duration="2741000" />
+      <workItem from="1609807918478" duration="1145000" />
+      <workItem from="1609809422929" duration="6405000" />
+      <workItem from="1609825007478" duration="5769000" />
+      <workItem from="1609898639249" duration="6253000" />
+      <workItem from="1609982744676" duration="3824000" />
+      <workItem from="1610066669486" duration="599000" />
+      <workItem from="1610097277899" duration="2240000" />
+      <workItem from="1610157778788" duration="1635000" />
+      <workItem from="1610179525107" duration="7609000" />
+      <workItem from="1610251390983" duration="1226000" />
+      <workItem from="1610255810713" duration="8180000" />
+      <workItem from="1610335296670" duration="11146000" />
+      <workItem from="1610421960103" duration="10696000" />
+      <workItem from="1610440335215" duration="27662000" />
+      <workItem from="1610585792110" duration="17883000" />
+      <workItem from="1610613501009" duration="1997000" />
+      <workItem from="1610615658369" duration="4329000" />
+      <workItem from="1610665209457" duration="3808000" />
+    </task>
+    <task id="LOCAL-00001" summary="python基础知识">
+      <created>1610675078901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610675078901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python基础知识" />
+    <option name="LAST_COMMIT_MESSAGE" value="python基础知识" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1609245730887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609245730887" />
+    <state x="361" y="71" key="#Python" timestamp="1609840723918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Python/0.0.1536.824@0.0.1536.824" timestamp="1609840723918" />
+    <state x="484" y="61" key="#__init__" timestamp="1610437806462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="61" key="#__init__/0.0.1536.824@0.0.1536.824" timestamp="1610437806462" />
+    <state x="445" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610439895080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610439895080" />
+    <state x="518" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609309436093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609242797025" />
+    <state x="518" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1609309436093" />
+    <state x="556" y="302" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1610431105641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="556" y="302" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1610431105641" />
+    <state x="375" y="5" key="CommitChangelistDialog2" timestamp="1610675070957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="375" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610675070957" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610675562227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1609809939138" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610675562227" />
+    <state x="609" y="308" width="483" height="260" key="Github.ShareDialog" timestamp="1610675958447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="609" y="308" width="483" height="260" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1610675958447" />
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom" timestamp="1610672216709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1610616084120" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609245245070" />
+    <state width="820" height="180" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609227564772" />
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610672216709" />
+    <state width="1493" height="158" key="GridCell.Tab.0.center" timestamp="1610672216709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1610616084120" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609245245069" />
+    <state width="820" height="180" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609227564771" />
+    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610672216709" />
+    <state width="1493" height="158" key="GridCell.Tab.0.left" timestamp="1610672216709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1610616084120" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609245245069" />
+    <state width="820" height="180" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609227564771" />
+    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610672216709" />
+    <state width="1493" height="158" key="GridCell.Tab.0.right" timestamp="1610672216709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1610616084120" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609245245069" />
+    <state width="820" height="180" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609227564771" />
+    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610672216709" />
+    <state width="1493" height="158" key="GridCell.Tab.1.bottom" timestamp="1610672215748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="285" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1609816218080" />
+    <state width="1493" height="158" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610672215748" />
+    <state width="1493" height="158" key="GridCell.Tab.1.center" timestamp="1610672215747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="285" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1609816218079" />
+    <state width="1493" height="158" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610672215747" />
+    <state width="1493" height="158" key="GridCell.Tab.1.left" timestamp="1610672215747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="285" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1609816218079" />
+    <state width="1493" height="158" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610672215747" />
+    <state width="1493" height="158" key="GridCell.Tab.1.right" timestamp="1610672215748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="285" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1609816218079" />
+    <state width="1493" height="158" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610672215747" />
+    <state x="246" y="82" width="996" height="707" key="SettingsEditor" timestamp="1610675722690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1610611251168" />
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609245002994" />
+    <state x="246" y="82" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610675722690" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1610436405312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1610436405312" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1610675170529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610675170529" />
+    <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609308231115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1609308231115" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610617587403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1610616105369" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609243817438" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610617587403" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$casher.coverage" NAME="casher Coverage Results" MODIFIED="1609308244305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/Variovsandstring" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$print.coverage" NAME="print Coverage Results" MODIFIED="1609227604079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Variovsandstring" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample.coverage" NAME="sample Coverage Results" MODIFIED="1610601556504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/range" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample8.coverage" NAME="sample8 Coverage Results" MODIFIED="1610502722901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/list" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$string_format.coverage" NAME="string_format Coverage Results" MODIFIED="1609577279248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/Variovsandstring" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$print__1_.coverage" NAME="print (1) Coverage Results" MODIFIED="1609244023870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/Variovsandstring" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample1.coverage" NAME="sample1 Coverage Results" MODIFIED="1610601739073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/set" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample1__1_.coverage" NAME="sample1 (1) Coverage Results" MODIFIED="1610603608501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/tuple" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample2__1_.coverage" NAME="sample2 (1) Coverage Results" MODIFIED="1610611469782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/dict" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample4.coverage" NAME="sample4 Coverage Results" MODIFIED="1610611499315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/dict" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample4__1_.coverage" NAME="sample4 (1) Coverage Results" MODIFIED="1610601680542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/range" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample3__1_.coverage" NAME="sample3 (1) Coverage Results" MODIFIED="1610505753614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/operator" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample9.coverage" NAME="sample9 Coverage Results" MODIFIED="1610264581679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/list" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample6.coverage" NAME="sample6 Coverage Results" MODIFIED="1610611552406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/dict" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample6__1_.coverage" NAME="sample6 (1) Coverage Results" MODIFIED="1610515974316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/range" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$string.coverage" NAME="string Coverage Results" MODIFIED="1609589678102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/Variovsandstring" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample3.coverage" NAME="sample3 Coverage Results" MODIFIED="1610611478334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/dict" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample5__1_.coverage" NAME="sample5 (1) Coverage Results" MODIFIED="1610611440396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/function" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample3__2_.coverage" NAME="sample3 (2) Coverage Results" MODIFIED="1610506135187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/dict" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample7.coverage" NAME="sample7 Coverage Results" MODIFIED="1610611617386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/dict" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$smample5.coverage" NAME="smample5 Coverage Results" MODIFIED="1609901268046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/loop" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample1__2_.coverage" NAME="sample1 (2) Coverage Results" MODIFIED="1610515737139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/tuple" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$yci_assistant.coverage" NAME="yci_assistant Coverage Results" MODIFIED="1610672215040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample2.coverage" NAME="sample2 Coverage Results" MODIFIED="1610601797070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/set" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$sample5.coverage" NAME="sample5 Coverage Results" MODIFIED="1610612517059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/function" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$elec_charge.coverage" NAME="elec_charge Coverage Results" MODIFIED="1610675195237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/Variovsandstring" />
+    <SUITE FILE_PATH="coverage/PythonSystemStudy$smaple2.coverage" NAME="smaple2 Coverage Results" MODIFIED="1609815704997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/Pythonbaseknowledge/loop" />
+  </component>
+</project>
