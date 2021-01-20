@@ -20,7 +20,7 @@ print(persons)
 persons.remove("张三")
 print("张三" in persons)
 
-#列表的复制
+# 列表的复制
 persons1 = persons.copy()
 persons2 = persons
 print(persons2)
@@ -29,7 +29,7 @@ print(persons2 is persons1)
 print(persons2 is persons)
 print(persons1 is persons)
 
-#clear用于清空列表
+# clear用于清空列表
 persons.clear()
 print(persons)
 print(persons1)
