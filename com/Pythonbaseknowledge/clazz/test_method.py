@@ -26,11 +26,6 @@ class Cat(object):
 
 
 if __name__ == "__main__":
-   # 通过类进行调用
+    # 通过类进行调用
     Cat.breath()
     cat = Cat('小黑')
-    cat.breath()
-    cat.show_info("小黄")
-
-
-
