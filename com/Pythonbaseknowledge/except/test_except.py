@@ -8,10 +8,11 @@ def test_div(num1, num2):
     """除数为零"""
     return num1 / num2
 
+
 def test_file():
     """读取文件"""
     try:
-        f = open('test.txt','r',encoding='utf-8')
+        f = open('test.txt', 'r', encoding='utf-8')
         rest = f.read()
         print(rest)
     except Exception as err:

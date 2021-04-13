@@ -27,5 +27,5 @@ for key in employee:
     v = employee[key]
     print(v)
 
-for key, value in employee.items():  # items包含键值对
-    print(key, value)
+# for key, value in employee.items():  # items包含键值对
+#     print(key, value)

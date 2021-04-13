@@ -5,11 +5,11 @@
 # @File : sample5.py
 
 result = []
-for j in range(2,1000):
-    #num = input("请输入一个整数(输入0结束程序):")
+for j in range(2, 1000):
+    # num = input("请输入一个整数(输入0结束程序):")
     prime = True
     for i in range(2, int(j)):
-        #print(i)
+        # print(i)
         if int(j) % i == 0:
             prime = False
             break
@@ -18,5 +18,4 @@ for j in range(2,1000):
         result.append("{}".format(j))
         print("质数列表:{}".format(result))
     else:
-        print("{}不是质数".format(j),end="|")
-
+        print("{}不是质数".format(j), end="|")

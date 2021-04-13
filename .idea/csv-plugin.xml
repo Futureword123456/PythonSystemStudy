@@ -3,10 +3,59 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\index\reindex.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\numpyTest.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\numpy\numpyTest1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\numpy\numpyTest2.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\pandas\DataFrame.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\pandas\DataIo.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\pandas\Dataio1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\pandas\Series.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
