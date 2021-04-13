@@ -27,7 +27,7 @@ df3 = df2.reindex(columns=['c1', 'c2', 'c3', 'c4', 'c5', 'c6'])
 print(df3)
 
 s5 = s1.reindex(index=['A', 'B'])
-print(s5)
+print('s5', s5)
 
 df4 = df1.reindex(index=['A', 'C'])
 print("df4:", df4)
@@ -37,7 +37,7 @@ s6 = s1.drop('C')
 print(s6)
 
 df5 = df1.drop(index='B')
-print(df1)
+print('df1:',df1)
 print(df1.drop(columns=['c2', 'c5']))
 print("df5:", df5)
 print(df1.drop(['E', 'D'], axis=0))

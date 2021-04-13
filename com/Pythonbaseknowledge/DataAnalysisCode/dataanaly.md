@@ -72,8 +72,14 @@ s1 = Series([1, 2, 3, 4], index=['A', 'B', 'C', 'D'])
 # 在缺失值的E位置上添加值10
 s2 = s1.reindex(index=['A','B','C','D','E'],fill_value=10)
 df1 = DataFrame(np.random.rand(25).reshape([5,5]),index=['A', 'B', 'D', 'E', 'F'],columns = ['c1', 'c2', 'c3', 'c4', 'c5'])
+# 得到行A\C
+df4 = df1.reindex(index=['A', 'C'])
+# 删除行B
+df1.drop(index='B')
+# 删除列c2,c5
+df1.drop(columns=['c2', 'c5'])
 
-
+####DataFrame是二维的，Series是一维的
 
 
 

@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\index\NaN.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\index\map.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\index\reindex.py">
           <value>
             <Attribute>
