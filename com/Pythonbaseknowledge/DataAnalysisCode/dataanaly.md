@@ -80,6 +80,40 @@ df1.drop(index='B')
 df1.drop(columns=['c2', 'c5'])
 
 ####DataFrame是二维的，Series是一维的
+# 可以直接用字典创建一个DataFrame 
+eg:df1=DateFrame({'城市':['北京','上海','广州'],'人口':[1000,1500,2000]})
+# 利用df1['GDP']=Series([1000,2000,3000])可以直接添加一columns GDP
+或者利用map函数
+#把index为1的替换为np.nan s1.replace({1:np.nan})
+# 创建一个5*5的矩阵 
+df1 = DataFrame(np.random.rand(25).reshape([5, 5]), index=['A', 'B', 'D', 'E', 'F'],
+                columns=['c1', 'c2', 'c3', 'c4', 'c5'])
+
+
+print('DataFrame排序：')
+df = DataFrame(np.random.randn(40).reshape([8, 5]), columns=['A', 'B', 'C', 'D', 'E'])
+print(df)
+# 根据A的index进行排序（只排序A）
+print(df['A'].sort_index())
+# 根据A排序所有的数据
+print(df.sort_value('A))
+# 重命名
+df1.rename(index=str.lower,columns=str.lower)
+df2 = df1.rename(index={'BJ':'北京'},columns = {'A':'a'})
+# 使用列表解析直接把lst=[1,2,3,4]转换为lst=['1','2','3','4']
+lst = [str(x) for x in lst]
+df1 = DateFrame({'key':['A','B','C','D'],'value':[1,2,3,4,5]})
+"""# Concatenate和Combine"""
+arr1 = np.arange(9).reshape([3,3])
+arr2 = np.arange(9).reshape([3,3])
+# 可以直接用del直接删除一个行的值
+# del df['Unnamed: 0']
+# # 删除重复值
+# print(df['Seqno'].drop_duplicates())
+# # 删除重复行
+# print(df.drop_duplicates(['Seqno'],keep='last'))
+
+
 
 
 

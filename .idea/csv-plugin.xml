@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\ Matplotlib介绍\HelloWorld.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\index\NaN.py">
           <value>
             <Attribute>
@@ -70,6 +77,27 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\series\Series_nad_pandas.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\series\pretreatment.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\series\分组和透视功能实战.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
