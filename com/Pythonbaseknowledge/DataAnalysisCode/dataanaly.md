@@ -112,6 +112,12 @@ arr2 = np.arange(9).reshape([3,3])
 # print(df['Seqno'].drop_duplicates())
 # # 删除重复行
 # print(df.drop_duplicates(['Seqno'],keep='last'))
+#透视表
+df = pd.read_excel('excel所在目录')
+df.to_csv('转换后的csv文件名')
+# csv---->透视表
+print(pd.pivot_table(df,index=['Manager','Rep'],values=['Price', 'Quantity'], fill_value=0, columns=['Product'],
+  aggfunc='sum'))
 
 
 

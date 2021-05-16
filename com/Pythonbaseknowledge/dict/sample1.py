@@ -16,5 +16,5 @@ print(dict2)
 # 2、利用dict函数创建字典
 dict3 = dict(name='王芬', sex='男', hiredate='1998-56-23')
 print(dict3)
-dict4 = dict.fromkeys(['name', 'sex', 'hiredate', 'grade'], 0)
+dict4 = dict.fromkeys(0,['name', 'sex', 'hiredate', 'grade'])
 print(dict4)

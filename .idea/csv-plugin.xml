@@ -80,6 +80,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\practice\Heart Attack Analysis &amp; Prediction.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\practice\mycharts.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\practice\practice.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\practice\rediction.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\series\Series_nad_pandas.py">
           <value>
             <Attribute>
@@ -95,6 +123,13 @@
           </value>
         </entry>
         <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\series\分组和透视功能实战.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\DataAnalysisCode\test\test1.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
@@ -182,6 +217,20 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\sacry\test1.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\com\Pythonbaseknowledge\test\test6.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>

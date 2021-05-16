@@ -37,7 +37,7 @@ s6 = s1.drop('C')
 print(s6)
 
 df5 = df1.drop(index='B')
-print('df1:',df1)
+print('df1:', df1)
 print(df1.drop(columns=['c2', 'c5']))
 print("df5:", df5)
 print(df1.drop(['E', 'D'], axis=0))

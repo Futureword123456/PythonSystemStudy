@@ -1,0 +1,14 @@
+,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size,size
+,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no,employee_no
+work_depart,临床医学院,人文与新媒体学院,保卫部（处）,农学院,动科学院,化工学院,医学部,发规处,后勤集团,团委,园林学院,图书馆,地物学院,地科学院,城建学院,基建处,外事处、国际学院,外语学院,学工部（处）,实验室与国资处,审计处,宣传部,工会,工程技术学院,录井研究院,教体学院,教务处,教工部、人事处,数学学院,文理学院,期刊社,机械学院,校办,校领导,档案馆,武汉校区管委会,油工学院,法学院,物电学院,生科学院,电信学院,研究生院、研工部,离退处,科技处,纪委、监察专员办,组织部、党校,经管学院,网信中心,艺术学院,计科学院,计财处,资环学院,非常规油气创新中心,马院
+每个学院分层,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100篇以下,,,1.0,,,,,1.0,1.0,1.0,,,,,,1.0,1.0,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,1.0,,1.0,,,1.0,1.0,1.0,1.0,,,,,,1.0,1.0,1.0,1.0,1.0,,1.0,,,1.0,,,
+100-200篇,,,,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,1.0,,,,,,,,,,,,,,,,1.0,,,,,,1.0,
+200-300篇,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,
+300-400篇,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+500-600篇,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,
+600-800篇,,1.0,,,1.0,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,
+800-1000篇,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,1.0,,,,
+1000-1200篇,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,
+1200-1400篇,,,,,,1.0,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,1.0,,,,,
+1400篇以上,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 """# 通过apply进行数据的预处理"""
 # print("通过apply进行数据的预处理:")
-# df = pd.read_csv('../homework/apply_demo.csv')
+# df = pd.read_csv('.   ./homework/apply_demo.csv')
 # print(df.head())
 #
 # print(df.size)
@@ -95,7 +95,7 @@ import matplotlib.pyplot as plt
 # s2 = Series(np.random.randn(100),index=date_list_new)
 # print(s2)
 # print(date_list_new)
-"""# 时间序列数据的采样和画图"""
+"""# 时间序列样和数据的采画图"""
 # print("时间序列数据的采样和画图:")
 # t_range = pd.date_range('2016-1-1', '2016-12-31')
 # # print(t_range)
@@ -149,23 +149,24 @@ import matplotlib.pyplot as plt
 # print(df)
 
 """数据分组技术GroupBy"""
-# print("数据分组技术GroupBy:")
-# df = pd.read_csv('../homework/city_weather.csv')
-# print(df)
-# g = df.groupby(df['city'])
-# print(g.describe())
-# print(g.agg('max'))
-# # print(g.groups)
-# # print('g.get_group', g.get_group('BJ'))
-# #
-# bj = g.get_group('BJ')
-# print('bj.mean():', bj.mean())
-# print(g.mean())
-# print(g.min())
-# print(g.max())
-# print(dict(list(g))['BJ'])
-# for name, group_df in g:
-#     print(name, group_df)
+print("数据分组技术GroupBy:")
+df = pd.read_csv('../homework/city_weather.csv')
+print(df)
+"""根据city进行分组"""
+g = df.groupby(df['city'])
+print(g.describe())
+print(g.agg('max'))
+# print(g.groups)
+# print('g.get_group', g.get_group('BJ'))
+#
+bj = g.get_group('BJ')
+print('bj.mean():', bj.mean())
+print(g.mean())
+print(g.min())
+print(g.max())
+print(dict(list(g))['BJ'])
+for name, group_df in g:
+    print(name, group_df)
 
 """4-12 数据聚合技术Aggregation"""
 
